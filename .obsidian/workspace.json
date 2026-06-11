@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "bbe83dfbfbea4246",
+    "type": "split",
+    "children": [
+      {
+        "id": "444451cbd98c0cb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202b334b7d543dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "87fbf89263fb7d37",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f9e173f1f442841",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "684bfb71caa7d08b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1d6ce711ede86194",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cd4d091ab2264614",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b0c315b570c6fbec",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad3332083a81d5be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f3deaec46e41af2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for readme"
+            }
+          },
+          {
+            "id": "50e754584cf33264",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from readme"
+            }
+          },
+          {
+            "id": "b22e7970827e498e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f94e6e678da0a1e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1d64643001b97208",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "readme.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of readme"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "202b334b7d543dbd",
+  "lastOpenFiles": [
+    "vault/theology/Clipped - News  Catholic Connect.md",
+    "readme.md",
+    "processed/Clipped - News  Catholic Connect.txt",
+    "inbox/Clipped - News  Catholic Connect.txt",
+    "clipper.py",
+    "venv/lib/python3.13/site-packages/beautifulsoup4-4.15.0.dist-info/licenses/LICENSE",
+    "venv/lib/python3.13/site-packages/beautifulsoup4-4.15.0.dist-info/licenses/AUTHORS",
+    "venv/lib/python3.13/site-packages/beautifulsoup4-4.15.0.dist-info/licenses",
+    "venv/lib/python3.13/site-packages/beautifulsoup4-4.15.0.dist-info/WHEEL",
+    "venv/lib/python3.13/site-packages/beautifulsoup4-4.15.0.dist-info/REQUESTED",
+    "venv/lib/python3.13/site-packages/beautifulsoup4-4.15.0.dist-info/RECORD",
+    "venv/lib/python3.13/site-packages/beautifulsoup4-4.15.0.dist-info/METADATA",
+    "venv/lib/python3.13/site-packages/soupsieve-2.8.4.dist-info/licenses/LICENSE.md",
+    "vault/machine learning/MLS Chapter 1 & 2.md"
+  ]
+}

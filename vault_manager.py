@@ -70,7 +70,8 @@ class VaultManager:
             Past Related Notes:
             {related_texts[:2000]}
             
-            Write a sharp, 2-3 sentence summary connecting the core ideas of the new note with the past notes.
+            Write a sharp, 2-3 sentence summary connecting the core ideas of the new note with the past notes. If no clear connection exists, say so. 
+            Focus on insights and relationships, not just surface-level similarities. Do not force a connection if it doesn't exist.
             """
             
             print("   🧠 Synthesizing connections...")

@@ -1,5 +1,4 @@
 
-
 # JoyBit: Autonomous Knowledge Ingestion & Synthesis Pipeline
 
 A completely offline, privacy-first ingestion pipeline that automatically captures, cleans, categorizes, and links knowledge assets into an Obsidian Vault. Powered by a local Large Language Model (LLM) and an intra-segment vector database, this tool ensures your personal research, documentation, and clipped web articles remain 100% local and secure.
