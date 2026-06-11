@@ -141,7 +141,7 @@ This project adheres strictly to local execution patterns. No text data, metadat
 ## 📂 Project Directory Structure
 
 ```text
-JoyBit/
+SecondBrain/
 │
 ├── inbox/               # Drop raw PDFs and text files here
 ├── processed/           # Processed files are automatically archived here
