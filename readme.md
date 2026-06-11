@@ -1,4 +1,4 @@
-![Uploading Screenshot 2026-06-11 at 16.19.41.png…]()
+
 
 # JoyBit: Autonomous Knowledge Ingestion & Synthesis Pipeline
 
