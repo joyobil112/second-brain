@@ -1,5 +1,6 @@
 
-# Local Second Brain: Autonomous Knowledge Ingestion & Synthesis Pipeline
+
+# JoyBit: Autonomous Knowledge Ingestion & Synthesis Pipeline
 
 A completely offline, privacy-first ingestion pipeline that automatically captures, cleans, categorizes, and links knowledge assets into an Obsidian Vault. Powered by a local Large Language Model (LLM) and an intra-segment vector database, this tool ensures your personal research, documentation, and clipped web articles remain 100% local and secure.
 
@@ -141,7 +142,7 @@ This project adheres strictly to local execution patterns. No text data, metadat
 ## 📂 Project Directory Structure
 
 ```text
-JoyBit/
+SecondBrain/
 │
 ├── inbox/               # Drop raw PDFs and text files here
 ├── processed/           # Processed files are automatically archived here
