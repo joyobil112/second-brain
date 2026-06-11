@@ -1,0 +1,4 @@
+pypdf
+ollama
+chromadb
+pydantic

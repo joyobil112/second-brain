@@ -1,0 +1,33 @@
+# --- Virtual Environment ---
+venv/
+ENV/
+env/
+.env
+
+# --- Python Cache & Compiles ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# --- Local Second Brain Directories ---
+.chroma_db/
+inbox/
+processed/
+
+# --- Local Configurations (Private Paths) ---
+config.py
+
+# --- Operating System Files ---
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# --- IDEs and Editors ---
+.vscode/
+.idea/
+*.swp
+*.swo
